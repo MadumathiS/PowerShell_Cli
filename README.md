@@ -9,11 +9,17 @@ Powershell is one of the most common shells in modern Windows systems, it has a 
 NOTE: Powershell is actually not a Windows exclusive shell, it can easily be used in Linux as well. However some of its functionalities are Windows specific and some of the exercises below will only be doable on a Windows system.
 
 1. RTFM
+
 2. Navigation
+
 3. File operations
+
 4. Permissions
+
 5. Package Management
+
 6. Environment Variables
+
 7. Trial of Might
 
 
