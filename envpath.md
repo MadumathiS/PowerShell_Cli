@@ -2,20 +2,18 @@
 
 Type echo $env:computername. It should show your computer name
 
-` PS C:\Users\varad> echo $env:computername
-INNERG`
+` PS C:\Users\varad> echo $env:computername`
+`INNERG`
 
-` $env:test = "hello powershell"
-PS C:\Users\varad> echo $env:test
-hello powershell`
+` $env:test = "hello powershell"`
+`PS C:\Users\varad> echo $env:test`
+`hello powershell`
 
-`echo $env:test
+`echo $env:test`
+`hello powershell Becode`
 
-hello powershell Becode`
-
-`$env:path
-
-C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\varad\AppData\Local\Microsoft\WindowsApps;C:\Users\varad\AppData\Local\GitHubDesktop\bin;C:\Users\varad\AppData\Local\Programs\Microsoft VS Code\bin;`
+`$env:path`
+`C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\varad\AppData\Local\Microsoft\WindowsApps;C:\Users\varad\AppData\Local\GitHubDesktop\bin;C:\Users\varad\AppData\Local\Programs\Microsoft VS Code\bin;`
 
 
 
