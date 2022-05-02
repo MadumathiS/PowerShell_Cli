@@ -7,20 +7,19 @@ Now that we know how to move in the file system, let's check how to manipulate f
 2. Type echo "Hello World" > story1.txt
 
 3. Print the content of the file
-
-`echo "Hello World" > story1.txt
+```
+ echo "Hello World" > story1.txt
 
 PS C:\Users\varad> Get-content story1.txt
 
-Hello World`
+Hello World
+```
 
 4. Create a folder named story
 
 `New-Item -Path 'C:\Users\varad\story' -ItemType Directory`
 
-
 ` Directory: C:\Users\varad`
-
 
 `Mode                 LastWriteTime         Length Name`
 ----                 -------------         ------ ----
@@ -60,7 +59,7 @@ Hello World`
 `Mode                 LastWriteTime         Length Name`
 `----                 -------------         ------ ----`
 `-a----        28-04-2022     11:11             28 me.txt`
-`-a----        28-04-2022     11:11             28 story1.txt``
+`-a----        28-04-2022     11:11             28 story1.txt`
 
 9. Append me.txt and add "I am a junior at Becode"
 
